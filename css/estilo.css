@@ -6,7 +6,9 @@ body{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
-/*----------------Estilos Base------------------*/
+
+
+
 img{
     display: block;
     width: 100%;
@@ -29,7 +31,6 @@ h1,h2,h3,h4,h5{
     width: 100%;
 }
 
-/*----------------Estilos Header------------------*/
 
 
 .main-header{
@@ -58,7 +59,10 @@ h1,h2,h3,h4,h5{
     top:2px;
     right: 3px;
 }
-/*----------------Estilos Menu------------------*/
+
+
+
+
 .main_nav{
     width: 100%;
     position:relative;
@@ -140,7 +144,7 @@ h1,h2,h3,h4,h5{
 .mostrar{
     height: 210px;
 }
-/*----------------Estilos Banner------------------*/
+
 
 .banner{
     margin-top:-52px;
@@ -174,7 +178,9 @@ h1,h2,h3,h4,h5{
     
 }
 
-/*----------------Estilos Principales------------------*/
+
+
+
 .group--color .container{
 	background-color: #DE423A;
 	padding: 10px;
@@ -235,7 +241,8 @@ h1,h2,h3,h4,h5{
 	font-weight: bold;
 }
 
-/*----------------Estilos Principales------------------*/
+
+
 .main-footer{
 	background: #222;
 	color: #fff;
@@ -263,7 +270,7 @@ h1,h2,h3,h4,h5{
 	right: 5px;
 }
 
-/*----------------Estilos Responsivos------------------*/
+
 
 @media screen and (min-width:480px){
 	.logo{
